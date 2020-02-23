@@ -10,6 +10,7 @@ ESP32 WiFi Camera(OV7670版) は以下の機能を実装しています。
 RAW画像変換サービスはAWS Lambdaで実装されたWebサービスであり、以下の機能を実装しています。
 1. アップロードされたRAW形式画像をJPEG画像に変換、S3に保存
 1. AWS SNS (Simple Notification Service)を用いて画像参照URLをユーザにメール連絡
+
 詳細は[ESPuPy/RAWImageConverter](https://github.com/ESPuPy/RAWImageConverter)を参照してください。
 
 本カメラは以下のパーツで構成されています。
