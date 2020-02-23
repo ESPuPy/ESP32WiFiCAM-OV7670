@@ -25,4 +25,7 @@ The following drivers are required to execute this application.
 1. ST7735.py<br>https://github.com/boochow/MicroPython-ST7735
 1. terminalfont.py<br>https://github.com/GuyCarver/MicroPython/tree/master/lib
 
+
+This system has been tested with MicroPython (V1.10) due to development 
+schedule and processing speed. Not tested in the latest version 　MicroPython (V1.20).
 All files are subject to MIT license.
