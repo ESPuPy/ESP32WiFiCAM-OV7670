@@ -13,9 +13,9 @@ RAW画像変換サービスはAWS Lambdaで実装されたWebサービスであ�
 
 詳細は[ESPuPy/RAWImageConverter](https://github.com/ESPuPy/RAWImageConverter)を参照してください。
 
-本カメラは以下のパーツで構成されています。
+本カメラは下記のデバイスで構成されています。
 
-|parts type|parts name|
+|デバイス種別|デバイス名|
 ----|----
 |MicroController|ESP32|
 |Camera Unit|OV7670 Camera with FIFO|
